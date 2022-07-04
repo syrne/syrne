@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syrne
 - 👀 I’m interested in python,SQL,PL/SQL.
-- 🌱 I’m currently learning to become a business analysis
+- 🌱 I’m currently learning to become a data science
 - 💞️ I’m looking to collaborate on project concerning data science ...
 - 📫 How to reach me ...
 
